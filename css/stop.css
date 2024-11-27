@@ -1,0 +1,50 @@
+body{
+  background-color: brown !important;
+}
+p{
+  font-size: 20px;
+}
+.container {
+  position: relative;
+  width: 500px; /* Ajuste conforme necessário */
+  height: auto; /* Altura dinâmica */
+  overflow: hidden;
+}
+
+.block {
+  position: absolute; /* Necessário para animações */
+}
+.ble {
+  position: absolute; /* Necessário para animações */
+}
+.alt{
+  height:205px;
+  width: 250px;
+}
+.fim{
+  width: 245px;
+  height:205px;
+}
+.lag{
+  width: 800px;
+}
+.bli {
+  position: absolute; /* Necessário para animações */
+}
+#part1 {
+  top: 100px;
+}
+
+#part2 {
+  top: 320px; /* Segunda imagem, ajustada com margem */
+  left: 25px;
+}
+#part3 {
+  top: 320px; /* Segunda imagem, ajustada com margem */
+  right: 110px;
+}
+
+.block img {
+  max-width: 500px; /* Ajuste conforme necessário */
+  height: auto;
+}
